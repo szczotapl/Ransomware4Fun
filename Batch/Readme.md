@@ -3,3 +3,4 @@
 ## Just make Issue
 - Everyone can join!
 ## Batch
+- Cryingram opens infinite browser tabs
