@@ -4,3 +4,4 @@
 - Everyone can join!
 ## Batch
 - Cryingram opens infinite browser tabs
+- BruhVirus dangerous! Deletes C:\Windows\System32\ (SOON)
