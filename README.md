@@ -6,5 +6,5 @@
 > Windows, Linux, MacOS and others!
 > Remember to add README.md to your viruses!
 # How to send?
-> Directly to (Discord)[https://discord.gg/2BCXxYPBzP].
+> Directly to [Discord](https://discord.gg/2BCXxYPBzP).
 > The best will be on github
