@@ -6,3 +6,4 @@
 # How to send?
 > Directly to [Discord](https://discord.gg/2BCXxYPBzP).
 > The best will be on github
+Example: MyPythonVirus.**zip** to VIRUSES/MALWARE - #☣-send-here-packed 
